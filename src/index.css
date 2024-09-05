@@ -1,0 +1,46 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  display:flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(7, 7, 7);
+  color: red;
+  border: 2px solid red;
+
+}
+
+h1{
+  color: red;
+  border: 2px solid black;
+
+  border-radius: 20px 15px;
+}
+
+.Container{
+  border: 12px solid red;
+  width:350px;
+
+}
+
+.Input{
+  border: none;
+  padding: 10px 20px;
+  background-color: rgb(0, 0, 0);
+  color: red;
+  /* border-radius: ; */
+}
+
+.Input:hover{
+  border: 5px solid red;
+}
+
+.bt22{
+  border: 2px solid red;
+  margin-left:15px ;
+  padding: 10px 20px;
+  background-color: black;
+  color: red;
+}
